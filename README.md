@@ -1,2 +1,2 @@
-# newrepo
-hi I am Shaukat
+I am Shaukat Ali,
+I am learning Python
